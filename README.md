@@ -9,7 +9,6 @@ This was a great project to help me learn how to commit changes to git. I also h
 
 It was quite tricky getting the main elements of the page positioned correctly but it has shown me that there are many ways to execute a project and I'm sure as I continue to learn I will find out better ways I could produced the same effects.
 
-TO BE CONTINUED..
-I still have quite a bit to do on this project and will update this README file as I continue. 
+
 
 
